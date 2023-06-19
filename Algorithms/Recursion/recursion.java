@@ -148,7 +148,7 @@ class recursion{
     }
 
       //L.7(3)
-    // Q. Print count of subsequences whos sum is equal to given sum;
+    // Q. Print count of subsequences whose sum is equal to given sum;
 
     static int countSubsequencesWithGivenSum(int idx,int[] subsequenceArr, int s,int sum){
         if(idx == subsequenceArr.length){
